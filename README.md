@@ -32,10 +32,15 @@ MilestoneProgress(
                 maxIconSize: 30,
                 totalMilestones: 6,
                 width: 250,
-         //     completedIconData: Icons.favorite,
-         //     completedIconColor: Colors.red,
-         //     nonCompletedIconData: Icons.favorite,
-         //    incompleteIconColor: Colors.grey,
+         //optional 
+                completedIconData: Icons.favorite,
+         //optional 
+           
+                completedIconColor: Colors.red,
+         //optional 
+                nonCompletedIconData: Icons.favorite,
+         //optional 
+                incompleteIconColor: Colors.grey,
               )
 ```
 # Pull Requests
