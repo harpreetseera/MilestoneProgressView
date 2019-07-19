@@ -1,6 +1,3 @@
-## [0.0.1] - Release 
+## [0.0.2] - Release 
 
-* Customisable milestone progress view library written in dart. 
-* Customisable completed milestone icon and color. 
-* Customisable incomplete milestone icon and color. 
-* Customisable max icon size. 
+* Updated how to use docs.(Inserted dummy values)
