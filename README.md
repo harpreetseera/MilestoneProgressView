@@ -28,10 +28,10 @@ To use this package :
 Note:The widget doesnot maintain its state itself.So to see the update , the state needs to be updated whenever a change is made .
 */
 MilestoneProgress(
-                completedMilestone: _counter,
-                maxIconSize: maxIconSize,
-                totalMilestones: totalMilestones,
-                width: width,
+                completedMilestone: 3,
+                maxIconSize: 30,
+                totalMilestones: 6,
+                width: 250,
          //     completedIconData: Icons.favorite,
          //     completedIconColor: Colors.red,
          //     nonCompletedIconData: Icons.favorite,
