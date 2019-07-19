@@ -1,5 +1,4 @@
-## [0.0.2] - Release 
+## [0.0.3] - Release 
 
-* Updated how to use docs.(Inserted dummy values)
-* Added example
+* Changes in example code
 
