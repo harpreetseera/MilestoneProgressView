@@ -1,3 +1,6 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - Release 
 
-* TODO: Describe initial release.
+* Customisable milestone progress view library written in dart. 
+* Customisable completed milestone icon and color. 
+* Customisable incomplete milestone icon and color. 
+* Customisable max icon size. 
