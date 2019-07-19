@@ -4,8 +4,8 @@ Flutter package for IOS and Android to display progress through milestone progre
 
 
 ### Screenshots
-
-<img src="ss1.jpg" height="300em" /><img src="ss2.jpg" height="300em" />
+<img src="demo.gif" />
+<img src="ss1.jpg" /> <img src="ss2.jpg"/>
 
 ## Usage
 
