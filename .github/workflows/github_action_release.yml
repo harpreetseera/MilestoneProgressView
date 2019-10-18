@@ -22,7 +22,7 @@ jobs:
     - name: Run tests
       run: flutter test
     - name: Build Release APKs
-      run: flutter build apk --release --split-per-abi
+      run: cd example && flutter build apk --release --split-per-abi
     - name: Upload APKs
       uses: ncipollo/release-action@v1
       with:

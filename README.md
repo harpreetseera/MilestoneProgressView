@@ -1,4 +1,4 @@
-# milestone_progress
+# milestone_progress [![](https://github.com/harpreetseera/MilestoneProgressView/workflows/Test%20and%20Build%20Apk/badge.svg)](https://github.com/harpreetseera/MilestoneProgressView/actions)
 
 Flutter package for IOS and Android to display progress through milestone progress widget.
 
