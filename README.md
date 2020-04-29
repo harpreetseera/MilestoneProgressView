@@ -6,9 +6,9 @@ Flutter package for IOS and Android to display progress through milestone progre
 
 
 ### Screenshots
-<img src="demo.gif" />
-<img src="ss1.jpg" /> <img src="ss2.jpg"/>
-
+<img src="https://raw.githubusercontent.com/harpreetseera/MilestoneProgressView/master/demo.gif" height="35%" width="35%"  alt="Demo gif"/>
+<img src="https://raw.githubusercontent.com/harpreetseera/MilestoneProgressView/master/ss1.jpg" height="35%" width="35%"  alt="Demo screenshot"/>
+<img src="https://raw.githubusercontent.com/harpreetseera/MilestoneProgressView/master/ss2.jpg" height="35%" width="35%"  alt="Demo screenshot2"/>
 ## Usage
 
 [Example]https://github.com/harpreetseera/MilestoneProgressView/blob/master/example/example_app.dart)
@@ -34,15 +34,10 @@ MilestoneProgress(
                 maxIconSize: 30,
                 totalMilestones: 6,
                 width: 250,
-         //optional 
-                completedIconData: Icons.favorite,
-         //optional 
-           
-                completedIconColor: Colors.red,
-         //optional 
-                nonCompletedIconData: Icons.favorite,
-         //optional 
-                incompleteIconColor: Colors.grey,
+                completedIconData: Icons.favorite, //optional 
+                completedIconColor: Colors.red, //optional 
+                nonCompletedIconData: Icons.favorite, //optional 
+                incompleteIconColor: Colors.grey, //optional 
               )
 ```
 # Pull Requests
